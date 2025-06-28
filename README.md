@@ -5,13 +5,12 @@ This is a simple Zomato-style landing page created using **HTML**, **CSS**, and 
 ## 📁 Project Structure
 
 project/
-│
-├── index.html # Main HTML file
-├── style.css # External stylesheet
-├── js/
-│ └── script.js # JavaScript functionality
-├── .gitignore # Files/folders to be ignored by Git
-└── README.md # Project overview
+
+ index.html # Main HTML file
+ style.css # External stylesheet
+ script.js # JavaScript functionality
+ .gitignore # Files/folders to be ignored by Git
+ README.md # Project overview
 
 
 ## 💡 Features
