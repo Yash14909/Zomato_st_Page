@@ -1,0 +1,30 @@
+
+### ✅ `.gitignore`
+
+```gitignore
+# Ignore node_modules if added
+node_modules/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.bak
+*.backup
+
+# Ignore VSCode settings (optional)
+.vscode/
+
+# Ignore cache folders
+.cache/
+dist/
+build/
+
+# Ignore OS/system files
+Thumbs.db
+ehthumbs.db
