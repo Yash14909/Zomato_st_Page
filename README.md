@@ -2,7 +2,7 @@
 
 This is a simple Zomato-style landing page created using **HTML**, **CSS**, and **JavaScript**. It includes basic animations, responsive design features, and a smooth scrolling script for internal links.
 
-## 📁 Project Structure
+## 📁 Repo Structure
 
 project/
 
